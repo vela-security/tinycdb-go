@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="86d26067-87b4-4ba1-9e42-2bb71959f6f5" name="dlv">
+        <fileTransfer accessType="SFTP" host="vela-dlv" port="22" sshConfigId="e54adac4-2174-48b8-9fc6-22c47acbc029" sshConfig="root@vela-dlv:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
